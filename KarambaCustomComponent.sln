@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarambaCustomComponent", "KarambaCustomComponent\KarambaCustomComponent.csproj", "{1A7A4289-97AC-4A57-91B0-4880617BBA07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarambaCustomComponentLibrary", "KarambaCustomComponentLibrary\KarambaCustomComponentLibrary.csproj", "{EA445465-7026-4DF5-A3E7-1046D7DF1515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7A4289-97AC-4A57-91B0-4880617BBA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7A4289-97AC-4A57-91B0-4880617BBA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7A4289-97AC-4A57-91B0-4880617BBA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7A4289-97AC-4A57-91B0-4880617BBA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA445465-7026-4DF5-A3E7-1046D7DF1515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA445465-7026-4DF5-A3E7-1046D7DF1515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA445465-7026-4DF5-A3E7-1046D7DF1515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA445465-7026-4DF5-A3E7-1046D7DF1515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DB02A3-5122-4970-B30C-35515D9FFA5C}
+	EndGlobalSection
+EndGlobal
